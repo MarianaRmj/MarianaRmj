@@ -42,7 +42,7 @@ Turnos, usuarios y horarios con manejo de base de datos.
 
 🐶 **PawForPaw – Plataforma solidaria para fundaciones caninas**  
 Proyecto final del bootcamp Henry con pagos, fichas de animales, autenticación y dashboard.  
-🔒 En proceso...
+🔗 [Repositorio](https://github.com/tomasbisio98/back-pawforpaw - https://github.com/tomasbisio98/front-pawforpaw)
 
 ---
 
