@@ -16,10 +16,10 @@ Mi enfoque está en el backend, pero disfruto trabajar en todo el stack para ent
 ## 💻 ¿Qué tecnologías uso?
 
 ### 🧩 Frontend
-- React ⚛️ · HTML · CSS · Bootstrap
+- React ⚛️ · HTML · CSS · Bootstrap · NextJs
 
 ### 🔧 Backend
-- TypeScript · NestJS · Express · PostgreSQL · MongoDB · Node.js
+- TypeScript · JavaScript · NestJS · Express · PostgreSQL · MongoDB · Node.js
 
 ### 🔐 Herramientas extra
 - Docker 🐳 · JWT · Stripe 💳 · Nodemailer 📩 · Git · GitHub
