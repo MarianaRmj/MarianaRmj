@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Mariana Restrepo</h1>
-<h3 align="center">Desarrolladora Full Stack en formación | Apasionada por la tecnología, el backend y las soluciones con impacto</h3>
+<h3 align="center">Desarrolladora Full Stack - Backend | Apasionada por la tecnología, el backend y las soluciones con impacto</h3>
 
 ---
 
