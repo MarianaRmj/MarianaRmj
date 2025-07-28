@@ -60,7 +60,7 @@ Estoy lista para dar el siguiente paso: unirme a un equipo de desarrollo, seguir
 
 ### 📫 ¡Conectemos!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mariana-restrepo-35b177101/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mariana-restrepom/)
 - 📧 restrepomejiamariana@gmail.com
 
 ---
