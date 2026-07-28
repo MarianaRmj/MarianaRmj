@@ -11,7 +11,7 @@
 
 ### 🧠 Sobre mí
 
-Full Stack Developer con enfoque en backend, proyectos reales en producción y formación en administración de empresas.
+Full Stack Developer con enfoque en backend, proyectos reales en producción y formación en administración Tecnologica.
 
 Construyo APIs robustas, integro servicios externos y entiendo la lógica de negocio detrás de cada solución. Mi trayectoria previa en facturación y contabilidad me da una perspectiva diferente: escribo código que resuelve problemas reales de negocio.
 
